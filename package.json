@@ -1,0 +1,16 @@
+{
+  "name": "meme-bot",
+  "version": "1.0.0",
+  "description": "Discord bot that reads messages and send appropriate meme",
+  "main": "main.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Thoom19999",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.7.1",
+    "dotenv": "^16.0.3",
+    "mocha": "^10.1.0"
+  }
+}
